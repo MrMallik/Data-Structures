@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548441271 source:c:\data_structures_workspace\merge sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1548517440 source:c:\data_structures_workspace\merge sort\mergesort code.c
+	<stdlib.h>
+	<stdio.h>
+
+1548441271 source:c:\data_structures_workspace\merge sort\main.k
+	<stdio.h>
+	<stdlib.h>
+

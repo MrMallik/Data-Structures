@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548133354 source:c:\data_structures_workspace\unsignedintegertest\main.c
+	<stdio.h>
+	<stdlib.h>
+

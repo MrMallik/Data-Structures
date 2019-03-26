@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551967986 source:c:\data_structures_workspace\hackerrank problem 1\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548174087 source:c:\data_structures_workspace\randomnumgenerator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
