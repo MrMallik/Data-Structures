@@ -28,7 +28,6 @@ int partition(int arr[], int low, int high){
         if(arr[j] <= pivot){
                 i++;
             swap(&arr[i], &arr[j]);
-            display(arr, sizeof(arr)/sizeof(arr[0]));
         }
     }
         swap(&arr[i + 1], &arr[high]);
